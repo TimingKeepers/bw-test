@@ -1,0 +1,4 @@
+#! /bin/bash
+
+sudo killall wr-receiver
+sudo killall wr-sender
